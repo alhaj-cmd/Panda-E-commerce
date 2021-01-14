@@ -1,0 +1,58 @@
+.navbar-brand img{
+    height: 100%;
+    width: 200px;
+}
+.row img{
+    height: auto;
+    width: 300px;
+}
+.orange-highlight{
+    color:limegreen;
+}
+.container{
+    background-color:rgb(252, 249, 243)
+}
+.btn{
+    color: floralwhite;
+    margin-left: 10px;
+    text-overflow: inherit;
+
+    
+
+}
+.footer-title h5{
+    color: greenyellow;
+}
+.col img{
+   height: 35%;
+   width: 100%;
+   padding:5%;
+    
+    background-color: gainsboro;
+}
+.shadow{
+    padding: 10px;
+}
+.title-card{
+    border: 0;
+    overflow: hidden;
+}
+.title-card-footer{
+    background-color: white;
+    border: 0;
+
+}
+
+.main img{
+    height: 40px;
+    width: 60px;
+
+}
+.menu{
+    width: 50%;
+    padding: 10px;
+} 
+.main .text{
+    width: 200px;
+
+}
